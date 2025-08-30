@@ -1,0 +1,20 @@
+[project]
+name = "mcp-server-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "contextily>=1.6.2",
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
+    "instagrapi>=2.2.1",
+    "matplotlib>=3.10.5",
+    "mcp[cli]>=1.13.0",
+    "numpy>=2.2.6",
+    "openai>=1.100.2",
+    "pandas>=2.3.1",
+    "python-facebook-api>=0.20.1",
+    "selenium>=4.35.0",
+    "webdriver-manager>=4.0.2",
+]
