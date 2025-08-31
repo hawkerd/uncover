@@ -9,6 +9,8 @@ __pycache__/
 .env/
 .uv/
 
+*.env
+
 # Build
 dist/
 build/
